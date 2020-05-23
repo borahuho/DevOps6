@@ -22,7 +22,6 @@ Vagrant.configure('2') do |config|
         machine.vm.network "private_network", ip: "192.168.10.9"
         config.vm.provision "shell", inline: $useraddscript
 
-        end
     end
 end
 
