@@ -39,7 +39,7 @@ vagrant ssh
 ```
 ## Mission
 
-Read your mission in ~/vagrant/mission
+Read your mission in the directory "Opdracht".
 
 ## Network
 Vagrant VM will be set up with 2 network adapters
