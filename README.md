@@ -54,6 +54,14 @@ vagrant up
 ```
 Stop and shutdown a VM
 ```
+Pause a VM
+```
+vagrant suspend
+```
+Restart a paused VM
+```
+vagrant resume
+```
 vagrant halt
 ```
 Remove a VM
